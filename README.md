@@ -13,9 +13,6 @@
 
 - ⚡ Fun fact **I enjoy turning ideas into real-world tech products and continuously learning new technologies to build impactful solutions.**
 
-  <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

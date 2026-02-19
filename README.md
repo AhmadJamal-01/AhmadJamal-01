@@ -13,6 +13,10 @@
 
 - ⚡ Fun fact **I enjoy turning ideas into real-world tech products and continuously learning new technologies to build impactful solutions.**
 
+  <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-jamal-aj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-jamal-aj/" height="30" width="40" /></a>
